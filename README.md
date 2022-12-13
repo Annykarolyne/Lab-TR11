@@ -1,6 +1,6 @@
 # Descrição
 
-O programa cria um vetor para adicionar um novo elemento nele, se possível, e remover o menor item. 
+O programa cria um vetor ordenado para adicionar um novo elemento nele, se possível, e remover o menor item. 
 
 # Compilar
 
